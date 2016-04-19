@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1461060557556,
+        "author": "Simon Cheung",
+        "text": "Testing React 123!"
+    },
+    {
+        "id": 1461060575533,
+        "author": "Ben Wu",
+        "text": "456 Testing React!"
+    },
+    {
+        "id": 1461063798141,
+        "author": "Yoyo Tech",
+        "text": "Does this get saved in comments.json"
+    }
+]
